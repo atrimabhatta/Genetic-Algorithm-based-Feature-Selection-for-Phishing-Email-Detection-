@@ -38,6 +38,8 @@ pip install -r requirements.txt
 ```bash
 python ga_phishing.py --csv sample_emails.csv --pop 20 --gens 10
 
+---
+
 ### 📊 Example Output
 
 ✅ GA Fitness Curve
@@ -52,12 +54,16 @@ python ga_phishing.py --csv sample_emails.csv --pop 20 --gens 10
 Baseline SVM F1: 0.71
 GA-selected SVM F1: 0.83
 
+---
+
 🛡️ Use Cases
 
 🔹 Academic projects in Cybersecurity & AI/ML
 🔹 Research in feature selection optimization
 🔹 Proof-of-concept for phishing/spam classification
 🔹 Teaching demo for GA applied in security
+
+---
 
 ### 🔮 Future Work
 
@@ -66,6 +72,8 @@ GA-selected SVM F1: 0.83
 📌 Add multi-objective GA (maximize F1, minimize features).
 
 📌 Experiment with Random Forest, XGBoost, or Deep Learning classifiers.
+
+---
 
 ### 🤝 Contributing
 
@@ -77,9 +85,13 @@ Create a new branch (feature-xyz)
 
 Commit changes & open a PR 🚀
 
+---
+
 ### ⭐ Support
 
 If this repo helped you, consider giving it a ⭐ — it motivates further improvements and makes the project more visible!
+
+---
 
 ### 📢 Author
 
