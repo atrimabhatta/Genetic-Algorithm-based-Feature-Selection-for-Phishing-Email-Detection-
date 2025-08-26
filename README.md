@@ -105,3 +105,5 @@ If this repo helped you, consider giving it a ⭐ — it motivates further impro
 - 🎓 MCA Student, UEM University of Engineering and Management  
 - 💻 Cybersecurity & AI/ML Enthusiast  
 
+## License
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
