@@ -40,7 +40,7 @@ python ga_phishing.py --csv sample_emails.csv --pop 20 --gens 10
 
 ---
 
-### 📊 Example Output
+## 📊 Example Output
 
 ✅ GA Fitness Curve
 
@@ -56,7 +56,7 @@ GA-selected SVM F1: 0.83
 
 ---
 
-🛡️ Use Cases
+## 🛡️ Use Cases
 
 🔹 Academic projects in Cybersecurity & AI/ML
 🔹 Research in feature selection optimization
@@ -65,7 +65,7 @@ GA-selected SVM F1: 0.83
 
 ---
 
-### 🔮 Future Work
+## 🔮 Future Work
 
 📌 Try on real phishing datasets (e.g., Enron, SpamAssassin).
 
@@ -75,7 +75,7 @@ GA-selected SVM F1: 0.83
 
 ---
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 Pull requests are welcome!
 
@@ -87,12 +87,15 @@ Commit changes & open a PR 🚀
 
 ---
 
-### ⭐ Support
+## ⭐ Support
 
 If this repo helped you, consider giving it a ⭐ — it motivates further improvements and makes the project more visible!
 
 ---
+## 📢 Author  
 
-### 📢 Author
+**Atrima Bhattacharyya**  
+- 🎓 MCA Student, UEM University of Engineering and Management  
+- 💻 Cybersecurity & AI/ML Enthusiast  
+- 🌐 [LinkedIn](#) | [GitHub](#)
 
-Atrima Bhattacharyya – [LinkedIn](https://www.linkedin.com/in/atrima-bhattacharyya-15111a2a9/  )
