@@ -106,4 +106,4 @@ If this repo helped you, consider giving it a ⭐ — it motivates further impro
 - 💻 Cybersecurity & AI/ML Enthusiast  
 
 ## License
-This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License – see the [LICENSE](SECURITY.md) file for details.
