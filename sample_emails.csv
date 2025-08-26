@@ -1,0 +1,6 @@
+text,from,reply_to,return_path,spf,dkim,label
+"Dear user, your account has been suspended. Click http://phish.com to verify.","phish@fraud.ru","support@secure.com","phish@fraud.ru","fail","fail",1
+"Congratulations! You have won $1000. Visit http://fakeprize.com now.","promo@lotto.cn","promo@lotto.cn","promo@lotto.cn","fail","fail",1
+"Meeting scheduled at 3 PM today. Please confirm.","colleague@company.com","colleague@company.com","colleague@company.com","pass","pass",0
+"Your bank account needs verification. Login here: http://bank-login.co","secure@bank.com","secure@bank.com","secure@bank.com","fail","fail",1
+"Project report attached. Kindly review.","boss@company.com","boss@company.com","boss@company.com","pass","pass",0
