@@ -22,40 +22,6 @@ This project applies a **Genetic Algorithm (GA)** to automatically select the mo
    - **Metrics report** (Accuracy, Precision, Recall, F1)  
 
 ---
-
-## 🛠️ Installation & Setup  
-
-### 1️⃣ Clone the Repo
-```bash
-git clone https://github.com/your-username/ga-phishing-feature-selection.git
-cd ga-phishing-feature-selection
-
-### 2️⃣ Install Requirements
-```bash
-pip install -r requirements.txt
-
-### 3️⃣ Run GA on Sample Dataset
-```bash
-python ga_phishing.py --csv sample_emails.csv --pop 20 --gens 10
-
----
-
-## 📊 Example Output
-
-✅ GA Fitness Curve
-
-✅ Selected Features
-
-['num_urls', 'spf_fail', 'dkim_fail', 'has_ip_url', 'sender_suspicious_tld']
-
-
-✅ Metrics Report
-
-Baseline SVM F1: 0.71
-GA-selected SVM F1: 0.83
-
----
-
 ## 🛡️ Use Cases
 
 🔹 Academic projects in Cybersecurity & AI/ML
@@ -97,5 +63,40 @@ If this repo helped you, consider giving it a ⭐ — it motivates further impro
 **Atrima Bhattacharyya**  
 - 🎓 MCA Student, UEM University of Engineering and Management  
 - 💻 Cybersecurity & AI/ML Enthusiast  
-- 🌐 [LinkedIn](#) | [GitHub](#)
+
+## 📊 Example Output
+
+✅ GA Fitness Curve
+
+✅ Selected Features
+
+['num_urls', 'spf_fail', 'dkim_fail', 'has_ip_url', 'sender_suspicious_tld']
+
+
+✅ Metrics Report
+
+Baseline SVM F1: 0.71
+GA-selected SVM F1: 0.83
+
+---
+
+## 🛠️ Installation & Setup  
+
+### 1️⃣ Clone the Repo
+```bash
+git clone https://github.com/your-username/ga-phishing-feature-selection.git
+cd ga-phishing-feature-selection
+
+### 2️⃣ Install Requirements
+```bash
+pip install -r requirements.txt
+
+### 3️⃣ Run GA on Sample Dataset
+```bash
+python ga_phishing.py --csv sample_emails.csv --pop 20 --gens 10
+
+---
+
+
+
 
