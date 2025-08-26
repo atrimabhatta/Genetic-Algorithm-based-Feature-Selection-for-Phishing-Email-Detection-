@@ -77,8 +77,13 @@ python ga_phishing.py --csv sample_emails.csv --pop 20 --gens 10
 
 ### ✅ GA Fitness Curve
 
+<img width="634" height="545" alt="image" src="https://github.com/user-attachments/assets/aa07fc44-14b3-461c-85c2-da35f1d66535" />
+
+
 ### ✅ Selected Features
 
+Selected features: [ 1  3  4  6 15 17 18 19 20 22 26 29 36 45 46 47 52 57 58 59 60 62 65 68
+ 74 75 79 80 84 88]
 ['num_urls', 'spf_fail', 'dkim_fail', 'has_ip_url', 'sender_suspicious_tld']
 
 
